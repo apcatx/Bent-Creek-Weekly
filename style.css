@@ -201,6 +201,7 @@ h4 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 .sign_up {
@@ -209,7 +210,8 @@ h4 {
     width: 650px;
     height: 360px;
     padding: 10px 0;
-    margin-top: 125px;
+    margin-top: 175px;
+
 }
 
 #sign_up {
