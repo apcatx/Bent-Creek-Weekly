@@ -47,6 +47,9 @@ header {
     color: #2B2F26;
 }
 
+.nav-links a:visited{
+    color: black;
+}
 .nav-links a:hover {
     color: #CD5D67;
     height: 30px;
@@ -194,7 +197,7 @@ h4 {
 }
 
 #enroll {
-    display: flex;           
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
